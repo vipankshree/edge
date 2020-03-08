@@ -13,25 +13,7 @@
       "Audio Initiator": " WAKE_WORD/",
       "Timestamp": " 2018-08-21T19:51:12.618Z/ 2018-08-21T19:51:13.090Z/",
       "Device Arbitration": "",
-      "Display List": " ",
-      "Audio Info": [
-        {
-          "utteranceId": "AB72C64C86AW2:1.0/2018/08/21/19/B0F00714530203W4/51:12::TNIH_2V.3e7ae166-65db-4178-8cb7-d6d9767b6a7bZXV/0",
-          "Duration": "https://coldplay.integ.amazon.com/datamart/content/AUDIO/data/AB72C64C86AW2:1.0/2018/08/21/19/B0F00714530203W4/51:12::TNIH_2V.3e7ae166-65db-4178-8cb7-d6d9767b6a7bZXV/0?transcode=pcm&normalize=true",
-          "Volume Level": "10",
-          "Audio Activity": "IDLE",
-          "Sample Size Bits": "16",
-          "TTS Activity": "FINISHED"
-        },
-        {
-          "utteranceId": "AB72C64C86AW2:1.0/2018/08/21/19/B0F00714530203W4/51:12::TNIH_2V.3e7ae166-65db-4178-8cb7-d6d9767b6a7bZXV/1",
-          "Duration": "https://coldplay.integ.amazon.com/datamart/content/AUDIO/data/AB72C64C86AW2:1.0/2018/08/21/19/B0F00714530203W4/51:12::TNIH_2V.3e7ae166-65db-4178-8cb7-d6d9767b6a7bZXV/1?transcode=pcm&normalize=true",
-          "Volume Level": "10",
-          "Audio Activity": "IDLE",
-          "Sample Size Bits": "16",
-          "TTS Activity": "FINISHED"
-        }
-      ]
+      "Display List": " " 
     },
       "Turn 2":{
          "Transcription":"vipank shree",
