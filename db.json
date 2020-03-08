@@ -1,6 +1,6 @@
 {
   "posts": [
-    "Turn 1":{
+    { "Turn 1":{
          "Transcription":"",
          "ASR":"alexa futter geben",
          "Nlu Domain Intent":"amzn1.ask.skill.dbcd53cb-8c4b-42b1-8028-af0ec2e06bd1_Live/UseItemIntent,",
