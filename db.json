@@ -20,7 +20,7 @@
           "Url": "https://coldplay.integ.amazon.com/datamart/content/AUDIO/data/AB72C64C86AW2:1.0/2018/08/21/19/B0F00714530203W4/51:12::TNIH_2V.3e7ae166-65db-4178-8cb7-d6d9767b6a7bZXV/0?transcode=pcm&normalize=true",
           "VolumeLevel": "10",
           "AudioActivity": "IDLE",
-          "SampleSizeBits": "16",
+          "SampleSizeBits": 16,
           "TTSActivity": "FINISHED",
           "Duration": 10
         },
@@ -29,7 +29,7 @@
           "Url": "https://coldplay.integ.amazon.com/datamart/content/AUDIO/data/AB72C64C86AW2:1.0/2018/08/21/19/B0F00714530203W4/51:12::TNIH_2V.3e7ae166-65db-4178-8cb7-d6d9767b6a7bZXV/1?transcode=pcm&normalize=true",
           "VolumeLevel": "10",
           "AudioActivity": "IDLE",
-          "SampleSizeBits": "16",
+          "SampleSizeBits": 16,
           "TTSActivity": "FINISHED",
           "Duration": 10
         }
