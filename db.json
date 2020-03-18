@@ -19,6 +19,12 @@
                "Url":"https://coldplay.amazon.com/datamart/content/AUDIO/data/A2M35JJZWCQOMZ:1.0/2020/02/18/17/G090LB09752202UP/50:41::TNIH_2V.99d42871-3148-4a43-ad0e-d6bc2988b910LPM/0?transcode=pcm&normalize=true",
                "Duration":"2500",
                "SampleSizeBits":"16"
+            },
+           {
+               "utteranceId":"A2M35JJZWCQOMZ:2.0/2020/02/18/17/G090LB09752202UP/50:41::TNIH_2V.99d42871-3148-4a43-ad0e-d6bc2988b910LPM/0",
+               "Url":"https://coldplay.amazon.com/datamart/content/AUDIO/data/A2M35JJZWCQOMZ:1.0/2020/02/18/17/G090LB09752202UP/50:41::TNIH_2V.99d42871-3148-4a43-ad0e-d6bc2988b910LPM/0?transcode=pcm&normalize=true",
+               "Duration":"2500",
+               "SampleSizeBits":"16"
             }
          ]
       },
@@ -31,7 +37,24 @@
          "Annotation Domain Intent":"",
          "Annotation":"",
          "Status":"IN_PROGRESS",
-         "Sub Status":""
+         "Sub Status":"",
+          "Timestamp":"2020-02-18T17:50:42.216Z",
+         "Device Arbitration":"",
+         "Audio Initiator":" TTS_PROMPT/",
+         "AudioInfo":[
+            {
+               "utteranceId":"A2M35JJZWCQOMZ:3.0/2020/02/18/17/G090LB09752202UP/50:41::TNIH_2V.99d42871-3148-4a43-ad0e-d6bc2988b910LPM/0",
+               "Url":"https://coldplay.amazon.com/datamart/content/AUDIO/data/A2M35JJZWCQOMZ:1.0/2020/02/18/17/G090LB09752202UP/50:41::TNIH_2V.99d42871-3148-4a43-ad0e-d6bc2988b910LPM/0?transcode=pcm&normalize=true",
+               "Duration":"2500",
+               "SampleSizeBits":"16"
+            },
+           {
+               "utteranceId":"A2M35JJZWCQOMZ:4.0/2020/02/18/17/G090LB09752202UP/50:41::TNIH_2V.99d42871-3148-4a43-ad0e-d6bc2988b910LPM/0",
+               "Url":"https://coldplay.amazon.com/datamart/content/AUDIO/data/A2M35JJZWCQOMZ:1.0/2020/02/18/17/G090LB09752202UP/50:41::TNIH_2V.99d42871-3148-4a43-ad0e-d6bc2988b910LPM/0?transcode=pcm&normalize=true",
+               "Duration":"2500",
+               "SampleSizeBits":"16"
+            }
+         ]
       },
       "Turn 3":{
          "Transcription":"",
